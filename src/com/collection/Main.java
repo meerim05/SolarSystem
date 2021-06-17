@@ -13,5 +13,11 @@ public class Main {
         Feron.Heat="46948214";
         Feron.Radius="34024209423";
         Feron.Temperature="1000000000000";
+
+        // adding features of Planet 1
+
+        Planet1 Omaro = new Planet1();
+        Omaro.radius="2428471470";
+        Omaro.size="059107505950";
     }
 }
