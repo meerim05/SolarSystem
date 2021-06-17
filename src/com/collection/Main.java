@@ -13,5 +13,9 @@ public class Main {
         Feron.Heat="46948214";
         Feron.Radius="34024209423";
         Feron.Temperature="1000000000000";
+
+        Planet2 Pitaro = new Planet2();
+        Pitaro.radius="12094894";
+        Pitaro.size="very small";
     }
 }
