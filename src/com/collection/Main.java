@@ -14,10 +14,16 @@ public class Main {
         Feron.Radius="34024209423";
         Feron.Temperature="1000000000000";
 
+
+        Planet2 Pitaro = new Planet2();
+        Pitaro.radius="12094894";
+        Pitaro.size="very small";
+
         // adding features of Planet 1
 
         Planet1 Omaro = new Planet1();
         Omaro.radius="2428471470";
         Omaro.size="059107505950";
+
     }
 }
